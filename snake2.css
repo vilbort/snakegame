@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+
+}
+
+#board {
+    border:8px dashed blue;
+    text-align: center;
+}
+
+
+#nimi {
+    color: brown;
+    font-size: 90px;
+    text-align: center;
+
+}
+
+.dark-mode {
+    background-color: black;
+    text-align: center;
+    color: brown;
+    font-size: 40px;
+  }
+
